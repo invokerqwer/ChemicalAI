@@ -8,3 +8,4 @@ This is the directory of our Data Intelligence Laboratory's code repository. We 
 + :   https://github.com/invokerqwer/Chemical-AI
 + :   https://github.com/invokerqwer/MMGN
 + :   https://github.com/invokerqwer/SMG-bert
++ DDI-OOD :  https://github.com/magnificent0121/IIB-DDI
